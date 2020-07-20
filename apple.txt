@@ -1,1 +1,1 @@
-I'm an apple. Apples are red and green.
+Hello. I'm an apple. Apples are red and green.
